@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="nl" itemscope itemtype = "http://schema.org/HealthAndBeautyBusiness">
+<!-- versie 1.3 jun 2017 cadeaubon, js naar file, topmenu  --->
+<!-- versie 2.0 jan. 2018 nieuwe css, nieuwe kop, nieuwe inhoud --->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>A-Style Beautyfarm - Nieuwegein de Spa vlakbij Utrecht</title>
+<link rel="shortcut icon" href="../images/wellnessOK.ico"> 
+<!--   <link rel="canonical" href="https://astyle.home.xs4all.nl/beautyfarm/index.html">  -->
+	<meta name="author" content="A-Style beautyfarm, Nieuwegein - Utrecht - Amsterdam">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5NJP2LM');</script>
+<!-- End Google Tag Manager -->	
+	
+
+<meta name="keywords" content="beautyfarm,beautydag,beautydagen, wellness, spa-resort,  utrecht,wellnessresort,wellnesscentrum,wellnessarrangement,Wellnessarrangementen,Top klasse wellness,sauna resort, beauty-arrangement,beautyarrangement,badkelding dag, vrouwendag,damesdag,kuuroord,beautyarrangementen,spa arrangementen,beautycentrum,beauty centre,A-Style,kuurdag, kuuroord, beautyfarm, beauty farm,thermen,beautyarrangement zonder sauna, badkledingdag,dames dag,luxe wellness, bijzondere wellness">
+
+<meta name="description" content="Dagje BEAUTYFARM met je vriendin? A-Style Spa - Nieuwegein (Utrecht) De gezelligste verwendag. De vriendinnendag is een all-in beautyarrangement. Top wellnessdag voor een zeer scherpe prijs">
+<!--FACEBOOK-->
+<meta property="og:title" content="Vriendinnendag, het gezelligste dagje Sauna" >
+<meta property="og:site_name" content="A-Style beautyfarm, Nieuwegein">
+<meta property="og:url" content="https://astyle.home.xs4all.nl/beautyfarm/spa_wellness_arrangementen/vriendinnendag_wellness_arrangement.html" >
+<meta property="og:description" content="Dagje SAUNA met je vriendin? A-Style Spa - Nieuwegein (Utrecht) De gezelligste verwendag. De vriendinnendag is een all-in beautyarrangement voor lage prijs. Top Dagje Wellness doe je bij A-Style in Nieuwegein" >
+<meta property="og:image" content="https://astyle.home.xs4all.nl/beautyfarm/images/Ingang-A-Style-beautyfarm-sneeuw.jpg" >
+<meta property="og:type" content="website" >
+<meta property="og:locale" content="nl-NL" >
+<!--TWITTER-->
+<meta property="twitter:card" content="summary" >
+<meta property="twitter:title" content="Vriendinnendag, Het gezelligste dagje Sauna" >
+<meta property="twitter:description" content="Dagje wellness, de beste en goedkoopste. " >
+<meta property="twitter:creator" content="@kuuroord" >
+<meta property="twitter:url" content="https://astyle.home.xs4all.nl/beautyfarm/spa_wellness_arrangementen/vriendinnendag_wellness_arrangement.html" >
+<meta property="twitter:image" content="https://astyle.home.xs4all.nl/beautyfarm/images/Ingang-A-Style-beautyfarm-sneeuw.jpg" >
+<meta property="twitter:image:alt" content="Ingang Beatyfarm" >
+<!--GOOGLE+-->
+<meta itemprop="name" content="Vriendinnendag, het gezelligste dagje Sauna">
+<meta itemprop="description" content="Dagje SAUNA met je vriendin? A-Style Spa - Nieuwegein (Utrecht) De gezelligste verwendag. De vriendinnendag is een all-in beautyarrangement voor lage prijs. Top Dagje Wellness doe je bij A-Style in Nieuwegein">
+<meta itemprop="image" content="https://astyle.home.xs4all.nl/beautyfarm/images/Ingang-A-Style-beautyfarm-sneeuw.jpg">
+<div id="fb-root"></div>
+
+<link rel="stylesheet" type="text/css" href="../jscss/rr_style4.css" />
+<link rel="stylesheet" type="text/css" href="../jscss/vriendinnendag.css" /> <!-- overrule met andere achtergrond --->
+ 
+ </head>
+
+
+<body id="page">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NJP2LM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+    <ul class="cb-slideshow">
+		<li><span>1</span><div><h3>Genieten</h3></div></li>
+		<li><span>2</span><div><h3>Sauna</h3></div></li>
+		<li><span>3</span><div><h3>Lunch</h3></div></li>
+		<li><span>4</span><div><h3>Handpakking</h3></div></li> 
+		<li><span>5</span><div><h3>luxe</h3></div></li>
+		<li><span>6</span><div><h3>Gezichtsbehandeling</h3></div></li>
+	</ul>
+
+<div class="container">
+	<div class="pure-g transback">
+		<div class="pure-u-16-24">
+			<li class="button-xsmall2 "><a href="../index.html" class="pure-menu-link"><img src="../images/A-Style_logo_white_2017.png" alt="A-Style beautyfarm Logo" width  = "160px"> terug naar hoofd menu </a></li> 
+			<a class="ligroot" href="beautyfarm-sauna-wellness-thermen-prijslijst.html"  ><h4 >Beautydagen en wellnessarrangementen</h4></a> 
+		</div>
+		<div class="pure-u-8-24">
+			<div>
+				<ul>
+					<li class="rr_button2"><a class="pure-menu-link" href="beautyfarm-sauna-wellness-thermen-prijslijst.html">Prijslijst</a></li> 
+					<li class="rr_button2"><a class="pure-menu-link" href="beautyfarm-sauna-wellness-thermen-prijslijst.html#kadobon">Cadeaubon</a></li>
+					<li class="rr_button2"><a class="pure-menu-link" href="beautyfarm-sauna-wellness-thermen-prijslijst.html">Andere Beautydag</a></li> 
+				</ul><br>
+			</div>
+		</div>
+	</div>
+
+
+<header>
+	<div class="pure-g">
+		<div class="pure-u-1">
+			<h5>Vriendinnendag</h5>
+
+			<h2>De gezelligste all-inn verwendag</h2>
+			<br><br><br><br>
+		</div>
+	</div>
+	<div class="pure-g transback">
+		<div id="info">
+			<div class="pure-u-1">
+				<br>
+			</div>
+			<div class="pure-u-1-1">
+				<img class="pure-img max"  src="../images/Vriendinnendag_wellness__PS_800px_59470055.jpg" alt="vriendinnen beautydag" title="De gezelligste verwendag">
+			</div>	 
+			<div class="pure-u-1" >
+				<h1>Vriendinnendag</h1>
+				<h2>de gezelligste verwendag</h2>
+				<br>			
+				<p>van 9:30 uur tot ca. 16:00 uur</p>
+				<br>
+				<ul>
+					<li>Inhoud van de vriendinnendag:</li>
+					<li>Ontvangst</li>
+					<li>Gezichtsbehandeling OF <br>
+					Massage met lichaamspakking </li>
+					<li> Wellness vibrosaun <br>
+					of snelbruiner</li>
+					<li>Uitgebreide luxe lunch buffet </li>
+					<li>Saladebuffet en Yoghurtbar </li>
+					<li>Paraffine perzik handpakking</li>
+					<li>Waterbed relaxmassage OF <BR>
+					Zoutkamer mineraal beleving</li>
+					<li>Sauna Tepidarium Kruiden voetenbad</li>
+					<li>Incl. huur kluisje, badjas en handdoeken</li>
+					<li>Gratis hapjes en lekkernijen tussendoor</li>
+					<li>Gratis gebruik scrubzout, shampoo etc.</li>
+					<li>Incl. alle drankjes (All-inn) </li>
+				</ul>
+				<p><br>
+				Complete sauna afdeling voor jullie zelf?<br>
+				Boek sauna privé bij. Slechts € 7,- p.p. <sup>1)</sup></p><br>
+				<p class="kleiner">	<sup>1)</sup> vanaf 3de persoon gratis</p><br>
+			
+				<div class="price2"> 
+					<a href="#prijslijst1">
+					<h4 class="pricex">€ 99,95</h4>
+					<p class="kleiner">Toeslag in het weekend <sup>*)</sup></p></a>
+				</div> 
+				<h1>All-inn!!</h1>
+					<p class="kleiner"> <sup>*)</sup>Er is een kleine toeslag in het weekend en<br>hoogseizoen. <a class="link2" href="#prijslijst1">Prijslijst</a> is p.p.</p><br>
+				
+				<div class="transback5">
+				<h4>Bij ons blijft u zoveel mogelijk bijelkaar!</h4>
+					<div class="pure-menu pure-menu-horizontal">
+					<ul class="pure-menu-list ">
+						<li class="pure-menu-item rr_button2"><a href="#boeking" class="pure-menu-link">boek<br>nu</a></li>
+						<li class="pure-menu-item rr_button2"><a href="#info_vriendinnendag_arrangement" class="pure-menu-link">Uitleg<br>met foto's</a></li>
+						<li class="pure-menu-item rr_button2"><a href="beautyfarm-sauna-wellness-thermen-prijslijst.html" class="pure-menu-link">Andere <br>beautydagen</a></li>
+					</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+			<img class="pure-img max" src=  "https://astyle.home.xs4all.nl/beautyfarm2003/images/gezichtsbehandeling_1.jpg" 		
+			alt="Beautyfarm Nieuwegein, Komkommers bij gezichtsbehandeling" title="Echt natuurlijke gezichtsbehandeling met komkommers">
+	<br>
+	<div class="pure-menu pure-menu-horizontal transback3" id="topmenu">
+		<a href="#beoordelingen" class="pure-menu-heading"><img src="../images/sterren_bais.jpg"></a>
+		<ul class="pure-menu-list">
+			<li class="pure-menu-item"><a href="#beoordelingen" class="pure-menu-link">Recensies<br>Beoordelingen</a></li>
+			<li class="pure-menu-item"><a href="#veelgesteldevragen" class="pure-menu-link"   >Veel gestelde<br>vragen</a></li>
+		</ul>
+	</div>	
+	</header>
+	
+	
+	
+	<div class="pure-g">
+		<div class="pure-u-8-24 transback">
+			<img class="pure-img" src=  "../images/Wellness_Genieten_beautyfarm_600px104829940.jpg" 	
+					alt="Beautyfarm Nieuwegein" title="puur">
+		</div>
+		<div class="pure-u-16-24 transback">
+			<h3 class="nogGroter">A-Style beautyfarm is Uniek!</h3>
+				<p>Vele bekende Nederlanders en buitenlandse gasten bezoeken onze unieke beautyfarm. Wij zijn groots in kleinschaligheid. 
+				Wij zijn een familiebedrijf en hebben een team van zeer vriendelijk en vakkundig personeel.<br>
+				De zeer hoge waarderingen op diverse beoordelingssites,  zoals op Facebook 4,8 uit 5 sterren. Een 9,3 op www.verwendagen.info: 9,3 Google reviews 4,8/5.<br>
+				Onze beautyfarm is gezellig, luxe, knus en zeer ruim van opzet.<br>Er zijn Luxe zitjes, ligbanken, gezellige bar, lounge, een echte <b>hout gestookte</b> open haard met heerlijke stoelen waar u kunt genieten van het knetterende vuur. Puur genieten en heerlijk ontspannen! Puur genieten in alle rust. Heerlijke behandelingen en in de watten gelegd worden. De rustieke omgeving brengt u direct in een ontspannen sfeer. Bij mooi weer kunt u in onze tuin. Met een senang kleterende watervalletjes komt u tot rust. Aan de één zijde van de watervalletjes is een terras waar u kunt genieten van een drankje. Aan de andere zijde is een zonneterras met ligbedden. Er is buiten ook een luxe lounge hoek en een apart gedeelte waar u kunt roken. (Er is binnen ook een kleine rokersruimte).
+				De schitterend aangelegde tuin met is een must bij goed weer.</p><br>
+		</div>
+	</div>
+	<div class="pure-g">
+		<div class="pure-u-1 transback">
+			<h3 class="nogGroter">De beautyfarm van bekende Nederlanders.</h3>
+			<p>Vele BN'-ers en buitenlandse gasten komen speciaal naar A-Style beautyfarm en zijn er vaste gasten. Zij waarderen de kleinschaligheid, rust, ruimte, privacy en het niveau. Een beautydag bij A-Style is tot in de puntjes geregeld! In ons gastenboek kunt u hun reacties lezen, we hebben er twee voor u uitgelicht. </p>
+		</div>
+			<br><br>
+	<div class="pure-u-6-24 transback2">
+			<br><p>A-Style is het paradijs op aarde! <br>
+			<br>
+			<span class="ondertekening">Ali B, presentator</p></span>
+		</div>
+		<div class="pure-u-4-24 transback2">
+			<br><img  src=  "../images/foto_bn1.JPG" height = "90px">
+		</div>
+		<div class="pure-u-10-24 transback2">
+			<br><p>Fantastische service! Heerlijk genoten met een hoofdletter G! Bedankt voor alles!<br>
+			<br>
+			<span class="ondertekening">Liefs Kaya & Milou & <br>Ewout Genemans</p></span>
+		</div>
+		<div class="pure-u-4-24 transback2">
+			<br><img  src=  "https://astyle.home.xs4all.nl/images/Ewout_Genemans_smal.jpg" height = "90px">
+		</div>
+	</div>
+
+			<h6 class="nogGroter transback">Familie de Ree en medewerksters<br>heten u van harte welkom <a id='hideshow' data-value="content14" class="pure-menu-link transback link2"   >meer... </a></h6><br>
+					<div id='content14' style="display:none" class="transback">		
+		<h3 class="nogGroter">Sauna's badkleding toegestaan</h3>
+			<p>Bij de meeste arrangementen kunt u "sauna privé" bijboeken. U heeft dan met uw  groepje (vanaf 2 personen) een gehele sauna afdeling voor uzelf. Geen pottenkijkers, maar heerlijk privé naar de sauna. In spa-resorts, thermen en wellnesscentra moet u naakt!, maar bij ons is het UW keuze! Bij sommige beautydagen is sauna privé inclusief.
+			Dat is pas echt genieten van uw  wellnessarrangement.</p><br>
+		<h3 class="nogGroter">Damesdag</h3> 
+			<p>Bij veel sauna's en thermen zijn er vrouwendagen. Dit omdat het sauna publiek voor 71% uit heren bestaat. Bij onze beautyfarm is 92% van onze gasten vrouw. A-Style beautyfarm is gericht op wellness en beauty. Hoewel we 7 verschillende sauna's hebben, is de sauna-ronde één van de vele onderdelen van het arrangement dat vooral uit wellness en beautybehandelingen bestaat. </p>
+		<h3 class="nogGroter">De gezelligste beautydag</h3>
+			<p>Uw  gastvrouw  is er speciaal voor om te zorgen dat alles tot in de puntjes geregeld is en u zoveel mogelijk bijelkaar blijft. Dat is wel zo gezellig en geeft volop rust. 
+			Wellness beauty en sauna op hoog niveau!</p><br>
+	</div>	
+			A-Style beautyfarm<br>
+			Tritonburg 1 t/m 5<br>
+			3437 HN  Nieuwegein<br><br>
+
+
+		
+ <div id="veelgesteldevragen">
+	<div class="pure-g transback">
+		<div class="pure-u-1-1 transback5">
+		<h2>Veel gestelde vragen</h2>
+		</div>
+		<div class="pure-u-11-24" >
+			<h2>Zijn er bijkomende kosten?</h2>
+				<p>Onze prijzen zijn ALL-INN. Dus niet zoals elders een hoge en onverwachte drank rekening, onverwachte parkeerkosten etc. Alles is inbegrepen</p>
+			<br>
+				<a class="pure-button pure-button-primary" href="../sauna/prijslijst-vriendinnendag-beautydag.html">Vriendinnendag prijsvergelijker</a> 
+			<br>
+			<h2>Wat betekent sauna privé?</h2>				
+				<p>Bij ons gaat het heel anders dan bij spa's, thermen en wellness-resorts. We hebben privacy waar nodig! De sauna privé krijgt gedurende 3 sauna rondes de beschikking over uw eigen afdeling, inclusief Finse sauna, tepidarium, kruidenvoetbad en douches en afkoel mogelijkheden </p>
+			<br><br>
+				<h2>Hebben jullie referenties?</h2>				
+				<p><b>Ja!</b><br>Wij zijn bijzonder trots wat mensen in ons gastenboek schrijven of bijvoorbeeld op facebook of bij recensie website's. We hebben ons gastenboek online gezet en hebben er hier enkele uitgelicht.</p>
+				
+				<a class="pure-button pure-button-primary" href="#beoordelingen">Blader in gastenboek</a> 
+			<br><h2>Kun je dit arrangement wijzigen?</h2>				
+			<p>In dit arrangement zijn een aantal keuzes en extra's mogelijk die u bij de boeking kunt opgeven. Wilt u andere wijzigingen? dan is dat is soms mogelijk. Echter een arrangement is een optimaal op elkaar afgestemd pakket.  <a  id='hideshow' data-value="content15"   >Meer ....  </a></p>
+			<div id='content15' style="display:none">
+				<h1>Beautydag aanbieding</h1>
+			<p>Een aangepaste beautydag kan niet meer tegen de zeer scherpe prijs die wij aanbieden. Vergeleken met andere day-spa's en thermen zijn onze arrangementen unique en bovendien aanzienlijk goedkoper. (Dit pakket kost elders minimaal € 160,-). Indien u wijzigingen wilt adviseren wij eerst naar onze één van onze andere <a href="https://astyle.home.xs4all.nl/beautyfarm/wellness_arrangementen.html"> beautydagen</a> te kijken die bij u past. Wij helpen u graag hierbij.</p></div>
+		</div>
+		<div class="pure-u-2-24 "></div>
+		<div class="pure-u-11-24">
+			<h2>Is het alleen voor vrouwen?</h2>
+				<p>92% van onze gasten is vrouw. Beauty en wellness is iets dat vaker door vrouwen gedaan wordt dan mannen. Heren gaan vooral in sauna resorts. A-Style is gericht op wellness en beauty en heren komen altijd samen met hun vrouw/partner. A-Style staat bekend om de hoge waarde die wij aan privacy geven.</p><br><br>
+			<h2>Wat heb je aan tijdens zo'n dag</h2>
+				<p>Al onze gasten hebben hun badjas aan met daaronder, badkleding of ondergoed.</p><br><br>
+			<h2>Hebben jullie badkledingdagen?</h2>
+			<p>Ja, dat kan bij ons elke dag. U boekt gewoon 'Sauna privé' en u kunt dan met badkleding in de sauna. U komt alleen andere gasten tegen in het restaurant, bar en lounge.</p>
+			<br></br>
+			<h2>Blijf je bij elkaar bij de vriendinnendag?</h2>
+			<p>Ja, wij plannen uw dag zo, dat de u zoveel mogelijk bij elkaar blijft, dat is wel zo gezellig! </p>
+		</div>	
+	</div>	
+</div>
+	<br><br>
+<!--   input form 3.1 -->
+<div  id="boeking">
+	<div id='content1' style="display:none">
+	  <p align="center"><iframe HEIGHT= "510" WIDTH= "500" IFRAME SRC ="https://docs.google.com/spreadsheet/pub?key=0AgWqBRz0MLs-cFdWSFQtSUlLVmJJR21UYzBVT0JURnc&single=true&gid=0&output=html&widget=true" frameborder="0"></iframe>
+	</div>
+	<div class="pure-g">
+		<div class="pure-u-5-5 ">
+			<form id="booking" class="address" method="post">  
+			<table>
+			<thead>
+				<tr>
+					<th></th>
+					<th><h2>Boeking Vriendinnendag</h2><br><p>Dagelijks mogelijk van 9:30 uur tot ca. 16:00 uur</p></th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class="pure-table-odd"><td>Titel</td>
+					<td> <label for="Mevr"><input type="radio" value="Mevr." id = "Mevr" name="titel" title ="Kies één van deze opties" required> Mevr. &nbsp; &nbsp; </label>
+						<label for="Dhr"><input type="radio" value="Dhr." id="Dhr" name="titel"> Dhr.  &nbsp; &nbsp; </label>
+						<label for="Fam"><input type="radio" value="Fam." id="Fam" name="titel"> Fam.  </label>
+					</td>
+				</tr>
+				<tr class="pure-table-odd">
+					<td><label for="name">Naam</label></td>
+					<td class="txtleft"><input type="text" name="name" value="" required id="name" title=""></td>
+				</tr>
+				<tr class="pure-table-odd">
+					<td><label>Postcode<br><p class="kleiner"></p></td>
+					<td class="txtleft"><input type="text" class="postcode" name="Postcode" value="" maxlength="8" size="5" required title="1234AB"> </label>
+					<label>  Huisnr.<input type="text"  class="streetnumber"  name="Huisnummer" value="" required maxlength="7" size="3" title=""></label><br>
+					
+					</td>
+				</tr>
+				<tr class="pure-table-odd">
+					<td>adres</td>
+					<td class="txtleft"><span class="message"></span><br>
+						<input type="text" tabIndex="-1" class="street" name="street" readonly="readonly" STYLE="background-color: #f4f4f4;"><br/>
+						<input type="text" tabIndex="-1" class="city" name="city" readonly="readonly" STYLE="background-color: #f4f4f4;">
+					</td>
+				</tr> 
+				<tr class="pure-table-odd">
+					<td><label>E-mail</td>
+					<td class="txtleft"><input type="email" name = "email" value="" title="" required></label></td>
+				</tr>
+				<tr class="pure-table-odd">
+					<td><label>Telefoonnr.</td>
+					<td class="txtleft"><input type="tel" name = "Telefoon" value="" required title=""></label></td></tr>
+
+				<tr class="pure-table-odd">
+					<td>Cadeaubon?  <a href="#kadobon">meer..</a></td>
+					<td> 
+					<label><input type="checkbox" name="cadeaubon" id="ja" value="ja"  />Geef als cadeaubon </label>
+					</td>
+				</tr>
+				<tr class="pure-table-odd">
+				<td><div class="showDatum">Datum</div>
+		
+				</td>
+				<td class="txtleft">
+				<div class="ShowKado">
+				<img class="pure-img center" src= "../images/wellness_cadeaubon_web.jpg" alt="wellness cadeaubon">
+					De cadeaubon kan ingewisseld worden op:<br>
+					<br>
+					<label><input type="radio" value ="kadomavr" name = "kadodag">maandag t/m vrijdag<br></label>
+					<label><input type="radio" value ="kadomaza" name = "kadodag">maandag t/m zaterdag (duurder) <br></label>
+					<label><input type="radio" value ="kadomazo" name = "kadodag">maandag t/m zondag (duurder)<br></label>
+					<input type="hidden" value ="" name = "kadodag">
+				</div>
+				<div class="showDatum">
+ 					<label><input type="date" name="Datum" value=""> </label>  
+						<a class="pure-button pure-button-primary" id='hideshow1' href="#content1" value='hide/show' data-value="content1">Wanneer Plaats?</a> </td>
+				</div>
+				</tr>
+				<input type="hidden" name="arrangement" value="03-Vriendinnendag 2016">
+				<input type="hidden" name="beautyproff" value="40">
+				<input type="hidden" id="url" name="url" value=orgUrl>
+				</tr>
+				<tr class="pure-table-odd">
+					<td>Extra's <br><br>
+					<p>Totaal extra's </p><br><p>p.p.: €  <span id="price">0,00</span></p>
+					<span id="output"></span><input type="hidden"  name="sum" id="sum" value="0">
+					</td>
+					<td class="txtleft">
+						<label for="sauna"><p class="txtleft"><input class="calc" type="checkbox" value="07.00~SaunPriv" name="Extra51"  id="sauna" > Sauna Privé (€ 7,-p.p.) <br><p class="tab1">(vanaf derde persoon gratis)</p></label>
+						
+						<label for="beide"><p class="txtleft"> <input type="checkbox" id="beide" value="39.95~Gez+Mas" class = "calc" name = "optie_43050"> Gezichtsbehandeling EN </p> <p class="tab1"> pakkingsmassage (€ 39,95)</p> </label>
+						
+						<label for="lnggez"><p class="txtleft"><input class="calc" type="checkbox" value="9.95~LangGez" name="Extra52" id="lnggez" > Extra lange gezichtsbehandeling</p> <p class="tab1"> € 9,95 p.p.)</p></label>
+
+					</td>
+					
+				</tr>
+				
+				<tr class="pure-table-odd">
+					<td><label>Aantal personen</td>
+					<td class="txtleft">  <input type="number" name="aantalpers" min="0" max="25" value="1"> </td>
+				</tr>
+				<tr class="pure-table-odd">
+					<td><label>Opmerking </td>
+					<td class="txtleft"><textarea name="Opmerking" rows="3" cols="30" maxlength="240"></textarea></label></td>
+				</tr>
+				</tbody>
+				
+				</table>
+				<table>
+
+				<thead>
+				<tr>
+				<th>
+					* Wat doen wij met uw boeking/bestelling?<br>
+					Wij sturen een bevestiging per E-Mail, waarna de reservering definitief is. Indien u een cadeaubon besteld heeft sturen wij deze per E-Mail.	
+					Voorwaarden en <a  id='hideshow' data-value="content35" class="link2"  >meer</a> ....</p>
+						<div id='content35' style="display:none">Bij deze bevestigings E-Mail staat aangegeven hoe u de aanbetaling van € 25,- per persoon kunt voldoen. Na afloop van de beautydag kunt u dan het restant betalen. <br>
+						* De door u opgegeven datum is vol?<br>
+						Indien er op uw voorkeursdatum geen plaats meer is krijgt u zo spoedig mogelijk (meestal dezelfde dag) een e-mail bericht van ons.<br>
+						* Geen bericht ontvangen?<br>
+						Indien u na 2 werkdagen geen bericht van ons gehad heeft verzoeken wij u telefonisch contact met ons op te nemen. <br>
+						* Bij annulering meer dan 6 dagen voor de reserveringsdatum worden er alleen administratiekosten (€4,- per boeking) in rekening gebracht.<br>
+						Bij annulering binnen 6 dagen voor de  reserveringsdatum wordt er € 25,- annuleringskosten per persoon in rekening gebracht.<br>
+						Bij annulering minder dan 24 uur voor de reserveringsdatum wordt 50% van arrangementskosten in rekening gebracht.
+						</div>
+						<div id='success'></div>
+						<br><button class="pure-button pure-button-primary" type='submit'><h2>Verstuur boeking</h2></button>
+				</th></tr>
+			</thead>
+			</table>
+		</form>
+		<br>
+			<div id="prijslijst1"></div> <!--- haalt de prijs info op en drukt deze af hier af> -->	
+        <br>
+		</div>
+	</div>
+</div>
+	
+
+<br>
+
+<div id="info_vriendinnendag_arrangement">
+	<div class="pure-g">
+		<div class="pure-u-1-1 transback">	
+			<h1>De vriendinnendag, <br>de gezelligste verwendag</h1>
+			<br><p>Ideale voor vriendinnen die een dagje gezellig willen relaxen. De A-Style vriendinnendag is een begrip in Nederland en daarbuiten. Ook geschikt als zussendag. <br><br> <b>De vriendinnendag is compleet en alles inclusief.</b><br> Dus geen verrassingen bij het afrekenen. Hieronder staat nog een uitgebreide omschrijving van dit gezellige beautyarrangement. Met de vriendinnendag wordt u de hele dag heerlijk in de watten gelegd.</p><br>
+		</div>
+		<div class="pure-u-1 pure-u-md-1-2">   <!--- Ontvangst  -->
+			<img class="pure-img" src=  "../images/openhaard_beautyfarm_P3150849_opt2016.jpg"  alt="Beautyfarm open haard" title="Echte hout gestookte open haard">
+		</div>
+		<div class="pure-u-1 pure-u-md-1-2 transback" >
+			<li class="opsomming">Ontvangst</li>
+			<p>Gezellig bij de echte houtgestookte open haard beautyfarm of in de luxe lounge met verse koffie of thee. <br><br>Wij vertellen jullie over het wellness arrangement en de gastvrouw begeleidt jullie gedurende de dag. Wij regelen deze vriendinnendag tot in de puntjes.<a  id='hideshow8' data-value="content8">Meer ....  </a></p><br>
+			<div id='content8' style="display:none">
+			 <p><br>Bij warme dagen hebben wij de open haard uiteraard niet aan. Maar wij hebben een heerlijke tuin met een luxe terras waar we u bij goed weer ontvangen.</p>
+			</div>	
+		</div>
+		<div class="pure-u-1 pure-u-md-1-2">
+			<img class="pure-img" src=  "../images/gezichtsbehandeling_gezichtsmasker_wellness_600px_76174604.jpg" alt="Gezichtsbehandeling Wellness dag in A-Style Beautyfarm Utrecht" title="Puur wellnessgevoel">
+		</div>
+		<div class="pure-u-1 pure-u-md-1-2 transback">			
+			<li class="opsomming">Gezichtsbehandeling of <br>
+			lichaamsmassage met etherische pakking</li>
+			<p>U kunt kiezen uit een een heerlijke gezichtsbehandeling met de beste natuurcosmetica.
+			Afhankelijk van uw huidtype Incl. diepte-reiniging, kruidenstoom-reiniging, peeling, lotion reiniging enz.
+			<br>Na een heerlijke gezichtsmassage, maken wij
+			speciaal voor u een gezichtsmasker.
+			<a  class="link2" id='hideshow' data-value="pakkings_massage"   >Meer</a> ....  </p>
+			<div id="pakkings_massage" style="display:none">
+			<p>De gezichtsbehandeling duurt ca. 45 minuten. </p>
+			<h4>Massage met etherische pakking</h4>
+			<p>Bij de massage met etherische pakking worden eerst u rug, schouders en nek heerlijk gemasseerd, waarna u met speciale etherische olie wordt ingepakt. Deze trekt dan in waarbij de gezonde werking van de olie door uw huid wordt opgenomen. Daarna masseren we u nog heerlijk na. (duur van Massage met pakking is ca. 45 minuten).  <br> Bij de vriendinnendag, kunt u één van deze twee behandelingen kiezen.<br><br>
+			Tegen meerprijs zijn beide behandelingen ook mogelijk</p>
+			</div>
+			</p>
+		</div>
+		<div class="pure-u-1 pure-u-md-1-2 transback">
+			<img class="pure-img" src=  "../images/gezichtsmassage_600px_24880642.jpg" alt="Gezichtsbehandeling Wellness dag in A-Style Beautyfarm Utrecht" title="Puur wellnessgevoel"><br>
+		</div>
+		
+		<div class="pure-u-1 pure-u-md-1-2 transback">
+			<br><li class="opsomming">Vibrosaun óf Snelbruiner</li>
+			<p>Genieten van helende mircromassage en aromatherapie of snel een gezond kleurtje.</p>
+		<br><br>
+		</div>
+		
+		<div class="pure-u-1 transback">			
+		<img class="pure-img max" src=  "../images/lunch_wellness_extrabreed.jpg" alt="Lunchbuffet, wellness Amsterdam" title="Wellness lunch">
+		</div>
+		<div class="pure-u-1 pure-u-md-1-2 transback">		
+		<br><br>
+		<img class="pure-img max" src=  "../images/lunch_buffet_300px64358349.jpg" alt="Lunchbuffet, wellness Amsterdam" title="Wellness lunch">
+		</div>
+		
+		<div class="pure-u-1 pure-u-md-1-2 transback">			
+
+			
+			<br><li class="opsomming">Uitgebreid Luxe Lunchbuffet</li>
+				<p>Inclusief in dit arrangement 
+				<li class="lunch">Zeer uitgebreid buffet met o.a. </li>
+				<li class="lunch">Soep van de dag</li>
+				<li class="lunch">Vers brood uit eigen oven </li>
+				<li class="lunch">Huisgemaakt biologisch brood</li>
+				<li class="lunch">Alle denkbare soorten beleg</li>
+				<li class="lunch">Diverse amuses</li>
+				<li class="lunch">Heerlijk gezonde Salade buffet</li>
+				<li class="lunch">Sap bar</li>			<a  class="link1" id='hideshow' data-value="glutenvrijbrood"   >Meer</a>
+						<div id='glutenvrijbrood' style="display:none">Wij weten hoe vervelend het is als je een voedselallergie hebt. Als je allergisch bent voor bepaalde stoffen zoals gluten, maken en bakken wij gewoon een glutenvrij brood voor u. Ons recept is inmiddels veel gevraagd, omdat het een echt lekker glutenvrijbrood is. Bent u bij ons en vindt u ons glutenvrij brood ook zo lekker? Dan krijgt u van ons het recept gewoon mee en leggen we u graag uit hoe deze bereid wordt. Omdat wij zelf ons glutenvrije brood maken, is het wel belangrijk dat u het bij de boeking aangeeft. Het deeg hiervoor moet namelijke een dag van te voren gemaakt worden. <br>A-Style beautyfarm, groots in kleinschaligheid</p></div>
+				</p>
+		</div>
+		<div class="pure-u-1-1 transback">	
+			<br><li class="opsomming">Tepidarium & Sauna</li>
+				<p>Heerlijk en gezond in de sauna. Het tepidarium geeft een gezonde milde warmte die iedereen als zeer aangenaam ervaart. Het tepidarium is een mooie ruimte die aansluit bij de sauna en is ideaal voordat u de sauna in gaat.</p>
+		</div>
+		<div class="pure-u-1-1">
+		<img class="pure-img" src=  "../images/Sauna_badkleding_wellness_vriendinnen_600px_58297852.jpg" width=100%  alt="Wellness Luxe Sauna beautyfarm badkleding damesdag" title="Sauna beautyfarm Nieuwegein">
+		<p class="transback"><br>Wilt u met badkleding in de sauna? Boek dan 'sauna-privé' bij! U krijgt dan uw eigen sauna afdeling zodat u in alle rust met uw vriendin(nen) kunt genieten! (gratis vanaf derde persoon). Zo is het iedere dag badkleding dag bij ons. <a id='hideshow' class="link1" data-value="badkledingdag"   >Meer</a> ....  <br><br></p>
+				<div id='badkledingdag' class="transback" style="display:none">Wij vinden het gewoon dat u zich in alle privacy kan omkleden, elders moet dat in gemengde kleedlokalen. Bij de alle behandelingen bent u, met uw groep in aparte luxe salons, waar geen andere mensen bij komen. Zelfs de sauna en de douches kunnen bij ons privé! Op die manier heeft u uw eigen privé wellnesscentrum </p></div>
+		</div>
+		<div class="pure-u-1-3"><br>
+			<img class="pure-img" src=  "../images/paraffine_handpakking_wellnessdag_utrecht_600px64481324.jpg"  alt="Beautyfarm Amersfoort Handpakking" title="Handpakking Beautyfarm">
+		</div>			
+		<div class="pure-u-2-3 transback">	
+			<br><li class="opsomming">Paraffine -Perzik handpakking</li>
+				<p>Doet wonderen voor uw handen. U krijgt een aloë-vera pakkingscrème en een pakking van paraffine en perzik. Daarna gaat u in de smooth lounge. Hier zijn ligbanken waar u in een omgeving met zuurstof verrijkte lucht en aromatherapie heerlijk kunt liggen of zitten, terwijl de handpakking intrekt 
+				Een speciale handpakking met Paraffine moet u mee gemaakt hebben.</p>
+		</div>
+		
+		<div class="pure-u-1-3">
+			<img class="pure-img" src=  "../images/handdoek_wellness_600px_IMG_2278.jpg" alt="Wellness stenen en handdoeken" title="Wellness Handdoeken">			
+		</div>
+		<div class="pure-u-2-3 transback">	
+			<br><li class="opsomming">Incl. gebruik badjas, handdoeken en kluisje</li>
+				<p>U krijgt van ons uw eigen kluisje en heeft bij het omkleden privacy!! <br>In thermen en sauna resorts zijn gemengde omkleed lokalen, waar u met wildvreemde in zich moet omkleden (gemengd). Bij ons is dat anders. Ook bij het omkleden heeft u echte privacy!</p>
+			<br><h4>Gratis gebruik van</h4> 
+				<p>Shampoo, Scrubzout (meerdere soorten), Bodylotion, Hairspray etc .</p><br>
+		</div>
+		<div class="pure-u-1">
+			<img class="pure-img" src=  "../images/tuin_breed_drankje_px_opt_IMG_2206t.jpg"  alt="Beautyfarm tuin luxe" title="Luxe wellness buiten">			
+		</div>
+			<div class="pure-u-2-3 transback">
+			<br><h4>Relaxen en onthaasten</h4>
+				<p>Heerlijk niks doen of gewoon lekker kletsen. Tussen de behandelingen door kunt u onthaasten en relaxen. Er zijn knusse, luxe, ruime en gezellige zitjes. Bijvoorbeeld bij de openhaard met een drankje (inclusief!), in de lounge (binnen en buiten) aan de gezellige bar of aan de stamtafel. Er is een aparte rokersruimte binnen en buiten.  *)</p>
+				</div>
+		<div class="pure-u-1-3"><br>
+			<img class="pure-img" src=  "../images/genieten_600px_52189467.jpg" alt="Wellness stenen en handdoeken" title="Heerlijke Handdoeken">			
+		</div>
+		<div class="pure-u-1 transback">
+			<br><h4>Privacy </h4>
+				<p>Privacy zoals u die in geen enkel andere thermen en sauna-resort, spa, wellnesscentrum of beautyfarm vindt. Niet voor niets zijn vele bezoeken bekende Nederlanders onze vaste gasten. Wij worden geroemd om onze om onze aandacht voor uw privacy. <a id='hideshow' class="link1" data-value="content2"   >Meer</a> ....  </p>
+					<div id='content2' style="display:none">Wij vinden het gewoon dat u zich in alle privacy kan omkleden, elders moet dat in gemengde kleedlokalen. Bij de alle behandelingen bent u, met uw groep in aparte luxe salons, waar geen andere mensen bij komen. Zelfs de sauna en de douches kunnen bij ons privé! Op die manier heeft u uw eigen privé wellnesscentrum </p>
+		</div>
+			<br><li class="opsomming">Zout &amp mineral belevenis OF<br>Waterbed Relaxmassage</li>		
+		<img class="pure-img max" src=  "../images/zoutkamer-thermen-breed_optIMG_2157.jpg"  alt="Zoutgrot Wellness Nieuwegein" title="Zout Sauna Belevenis">	
+		</div>
+		<div class="pure-u-1-3">
+			<br>
+			<img class="pure-img" src=  "../images/giphy.gif"  alt="Zoutgrot Wellness Nieuwegein">			
+					<br>
+			<img class="pure-img" src=  "../images/zoutkamer_200px_8515559.jpg"  alt="Zoutgrot Wellness Nieuwegein" title="Zout Sauna Belevenis">	<br>	
+		</div> 
+		<div class="pure-u-2-3 transback">
+
+			
+				<p>U kunt kiezen of u gebruik wilt maken van de  Salt &amp mineral experience of de waterbed relaxmassage bank. 
+				Bij de  Salt &amp mineral experience gaat u heerlijk in deze bijzondere en unieke ruimte waar een zeer aangename en buitengewone gezonde atmosfeer is. Al eeuwen is bekend dat mensen die veel in de mineraalgrotten van de Himalaya verbleven nooit ziek werden. Deze zouten en mineralen zijn in dit bijzondere grotachtige vertrek in hoge concentraties aanwezig.</p><br>
+				<p>Kiest u voor de waterbed relaxmassagebank. Dan gaat u iets heel bijzonders ervaren wat u nergens anders vindt. U ligt op een waterbed waar golvende microtrillingen (alfamassage) op een zeer aangename golfbeweging uw lichaam op een gezonde en helende  wijze masseert. Onze gasten voelen zich bijzonder ontspannen en goed na een halfuur op dit speciale waterbed gelegen te hebben.</p>
+		
+
+		</div> 			
+		<div class="pure-u-1 transback">			<br><h4>Tuin met watervallen, ligstoelen en -banken </h4> 
+				<img class="pure-img max" src=  "../images/vuurtafel_tuin_breed_opt.jpg"  alt="Spa tuin">	<br>	
+
+				<p>Luxe ligbanken, romantische zitjes, een vuurtafel, een buitenlounge en een zonneterras. Bij mooi weer kunt u hier heerlijk genieten.</p>
+				
+			<br><li class="opsomming"> Alle drankjes inclusief (All-inclusive)</li>
+				<p>Alle drankjes, vruchtensappen, koffie, thee, waters, gezonde hapjes en snacks, zijn in de prijs begrepen. <a  id='hideshow' data-value="All-inclusive" class="link1"   >Meer</a>....</p>
+				<div id='All-inclusive' style="display:none">
+					<br><p> ONZE ALL-INCLUSIVE FORMULE!!<br>
+					U weet van te voren wat u betaald, want de drankjes, hapjes en de lunch en het saladebuffet zijn inclusief. Alle frisdranken en vruchtensappen. Alle thee, koffie, waters en mineraalwater Beauty-juice (met o.a. vers geperste jus d'orange) (van 11:30 tot 14:00 uur). Diverse hapjes en snacks in de middag 'Super lekker bar' met snoep-potten 'Super gezond bar' met gezonde snacks en diverse nootjes. In Day-spa's wellnessresorts en thermen wordt u vaak verrast door hoge onverwachte kosten. Bij ons is dus alles bij de prijs inbegrepen! </p>
+				</div>
+				
+			<br><li class="opsomming">Afsluitend een 'beauty cocktail'</li>
+				<p>Aan het einde van deze beautydag kunt u nog even gezellig "nakletsen" aan de bar of in de lounge! Wij serveren u een alcoholvrije gezonde cocktail ter afsluiting van dit beautyarrangement</p>
+		</div>
+		<div class="pure-u-1 transback">
+			<br><p>De <b>vriendinnendag</b> is een compleet beautyarrangement voor één all-inclusive prijs. 
+			<BR>Al het bovenstaande hoort bij het arrangement.
+			<a  id='hideshow' data-value="geschiedenisvriendinnendag" class="link1"   >Meer</a>....</p>
+				<div id='geschiedenisvriendinnendag' style="display:none">
+					<br><h4>A-Style 25 jaar vriendinnedag</h4><p><br>
+					A-Style beauty is gestart in 1989 als pedicure en schoonheidssalon. Al snel groeide wij tot een salon met meerdere behandelstoelen. In 1992 organiseerde wij , bij toeval een beautyarrangement voor 3 vriendinnen, die iets speciaals voor wilde doen omdat ze 5 jaar bevriend waren. Deze dag was zo'n succes dat we besloten er mee door te gaan. Na een jaar uitproberen van het beautyarrangement hadden we de perfecte balans gevonden, we moesten alleen nog een naam verzinnen. Al snel kwamen we op het idee van 'Vriendinnendag' deze naam werd nog niet gebruikt dus registreerde we hem. We zijn er trots op dat zo veel collega's het concept van onze vriendinnendag hebben overgenomen met als naam vriendinnenarrangement, vriendinnenbeautydag en vele anderen. 25 jaar later is onze vriendinnendag het meest geboekte arrangement. De A-Style vriendinnendag is completer en goedkoper</p>
+				</div>
+			 <BR><BR><BR>
+			Familie de Ree<br>
+			en medewerksters heten u van harte welkom<br>
+			bij de vriendinnendag. Het gezelligste verwenarrangement</p>
+		</div>
+	</div>
+</div>
+ 
+
+<div class="pure-1 pure-menu pure-menu-horizontal  transback3">
+	<a href="../index.html" href="#beoordelingen" class="pure-menu-heading"><img src="../images/sterren_bais.jpg"></a>
+		<ul class="pure-menu-list">
+			<li class="pure-menu-item"><a href="#beoordelingen" class="pure-menu-link">Recensies<br>Beoordelingen</a></li>
+		</ul>
+		<a href="#beoordelingen" class="pure-menu-heading"><img src="../images/a-style_logo_2017_degoeie_dark.png" width = "140px"></a>
+</div>	
+	
+<p class="stukjewit"></p>
+	
+<div class="pure-menu pure-menu-horizontal">
+    <a href="#" class="pure-menu-item">A-Style</a>
+    <ul class="pure-menu-list">
+        <li class="pure-menu-item"><a href="../index.html" class="pure-menu-link">Home</a></li>
+        <li class="pure-menu-item pure-menu-selected"><a href="#info" class="pure-menu-link">Top</a></li>
+        <li class="pure-menu-item"><a href="../index.html" class="pure-menu-link">Onze wellness arrangementen</a></li> 
+    </ul>
+</div>
+<p class="stukjewit"></p>   
+<p class="stukjewit"></p>
+
+<p class="stukjewit"></p>
+ 
+<div id="beoordelingen">
+	<div class="pure-g">
+		<div class="pure-u-8-24 transback5" >
+			<img class = "pure-img" src="../images/sterren_bais.jpg" >
+		</div>
+		<div class="pure-u-8-24 transback5" >
+			<p><br>Ons gastenboek ingescand . Lees wat onze gasten schreven in ons gastenboek. </p>
+		</div>
+		<div class="pure-u-8-24 transback5">
+			<a class="pure-button pure-button-primary" href="https://kuuroord-nieuwegein.nl/beautyfarm/gastenboek/" >2783 Reacties</a>
+		</div>
+		<div class="pure-u-16-24">
+			  <img class="pure-img" src="../images/topdag_recensie_wellness_utrecht1_opt.jpg" >
+		</div>	
+		<div class="pure-u-8-24 transback5">
+			  <p><br>18 juli: Echt een topdag. <br><br>Geweldig, Wonderful, Tremendous, Lovely, Echt Heerlijk om hier te zijn. De eerste keer en ik vraag me af waarom ik dit niet eerder heb gedaan. Geweldige verzorging!. Hartelijk Dank!!! </p><br><span class="ondertekening">Veel liefs Abigail & Tabitha</span><br>
+			  <p>Deze en honderden andere reacties staan in onze handgeschreven gastenboek!</p>
+		</div> 
+		<div class="pure-u-10-24 transback5">
+			<img class="pure-img" src=  "../images/openhaard_beautyfarm_P3150849_opt2016.jpg" /></div>
+		<div class="pure-u-14-24 transback5">
+			<p>Dit was een perfecte dag. We hebben genoten met een hoofdletter G. Hoewel dit niet zo'n mega complex is, is alles groots, en je hoeft gewoon nergens aan te denken, omdat alles perfect geregeld is met net dat stukje extra aandacht waardoor je de wereld om je heen vergeet en alleen maar kan genieten. Wat Katje en ik zo heerlijk vonden is dat je overal privacy hebt. De kleedruimte is echter niet groot, maar die is wel voor jezelf, en sta je dus niet in zo'n vreselijk hok, je om te kleden naast een man die ook net uit de sauna komt. De lunch was top net als de verzorging eromheen. Een dikke 10 van ons allebei.
+			<br></p>
+			<br><span class="ondertekening">Katja van den Bogeart, Anouk Willems, Amersfoort</span>
+			<br>
+		</div>
+		<div class="pure-u-18-24 transback5">
+			<p>Heerlijk was het! vooral met dit weer in de prachtige luxe tuin. Lekker bijgekomen. De bediening en behandelingen verdienen een dikke 10!<br>
+			<br>
+			<span class="ondertekening">Marijke en Wanda Jongeneel, Hilversum </span> </p>
+		</div>
+		<div class="pure-u-6-24 transback5">
+			<img  src=  "../images/Ella_resensie600px9496.jpg" height = "60px" >
+		</div>
+			<div class="pure-u-24-24 transback5">
+			<br><p>Wij met 4 meiden zijn heerlijk verwend. Een hele sauna voor ons zelf, heerlijke massages en super lekker gegeten. Wat wij erg prettig vonden was dat we alle drankjes die we maar wilde konden krijgen. Ook de lunch met heerlijke zalm :))  En last but not least. Het personeel! in één woord Fantastisch!!</p><span class="ondertekening">Lionne en Chantal de Winter, Rotterdam Robin, Arnhem Esther Jansen, Amersfoort</span>	</p>
+			<img src=  "../images/recentie_a-style_wellness_opt.jpg" width= "100%" alt="ingang A-Style beautyfarm">
+			<span class="bijschrift">Een greep uit de 116 Facebook recensies (4,8/5 sterren !) </span>
+				<br><br>
+			<p>Dit is het grootste geheim van Nederland!!!<br>Alles tot in de puntjes geregeld!  Geen klok, heerlijke behandelingen, alles was schoon en rook heerlijk, heerlijke lunch, super lekkere hapjes en werkelijk overal was aandacht aan besteed.<br> Dit wordt ons vaste kuuroord. Jammer dat we weer naar huis moeten.</p><br><span class = "ondertekening">Marja Dekker, Amsterdam</span>
+		</br><br>
+			<p><a href="https://kuuroord-nieuwegein.nl/beautyfarm/gastenboek/">Zie wat 2783 gasten in ons echte gastenboek schreven.</a></p>
+			<a class="pure-button pure-button-primary" href="https://kuuroord-nieuwegein.nl/beautyfarm/gastenboek/" >2783 Reacties</a>
+			<img src=  "../images/ingang_web_20171223_080744.jpg" width= "100%" alt="ingang A-Style beautyfarm" title="Foto's Ingang winter A-Style beautyfarm">
+			<img src=  "https://astyle.home.xs4all.nl/beautyfarm2003/images/ingangwinternastyle_800.jpg" width= "100%"  title="Winters wellnessgevoel" alt="Winter ingang A-Style beautyfarm">
+			
+			<span class="ondertekening">ingang A-Style Beautyfarm</span>
+		</div>
+			
+	</div>
+</div> 
+
+<div class="stukjewit"></div>
+<div class="stukjewit"></div>
+<div id="alternatieven">
+	<div class="pure-g">
+		<div class="pure-u-1 transback5" >
+			<h2>Alternatieve arrangementen voor vriendinnen</h2>
+		</div>
+		<div class="pure-u-1 pure-u-md-1-2 transback" >
+			<img src=  "../images/vrouw_wellness_genieten.jpg" width= "100%" alt="ingang A-Style beautyfarm" title="Foto's Ingang winter A-Style beautyfarm">
+		</div>
+		<div class="pure-u-1 pure-u-md-1-2 transback" >
+			<br><h4>Vipdag<br>Ons top arrangement</h4>
+			<p>Een uitstekend alternatief wellnessarrangement. Onze V.I.P. dag prima geschikt voor vriendinnen en zussen. Dit is ons meest uitgebreide arrangement voor wie het allerbeste wil.<br><br><a class="pure-button pure-button-primary" type='button' href="vip_exclusief_luxe_wellness_arrangement.html">Meer Vipdag</a></p>
+		</div>
+
+		<div class="pure-u-1 pure-u-md-16-24 transback" >
+			<h4>Only beautydag<br> heerlijke wellness zonder sauna</h4>
+			<p>Voor wie niet in de sauna wil is de 'Only beautydag' een uitstekend alternatief! Dit is een beautyarrangement zonder sauna en heeft al het lekkere van een wellnessdag, zonder dag u de hele dag in allerlei soorten sauna's gaat. Bij thermen en spa-resorts is een dagje beautyfarm vooral een saunadag waarbij u de mogelijkheid heeft om in de tientallen verschillende sauna's stoombaden en hottubes te gaan. <br><br><b>A&#8209;Style&nbsp;beautyfarm is uniek!</b> Bij ons kun je optimaal genieten zonder dat u een sauna in hoeft.<br><br>  <a class="pure-button pure-button-primary" href="only_beautydag_wellness_arrangement_zonder_sauna.html">Meer ...</a></p><br>
+		</div>
+		<div class="pure-u-1 pure-u-md-8-24 transback" >
+			<img src=  "../images/Wellness_Genieten_beautyfarm_600px104829940.jpg" width= "100%" alt="ingang A-Style beautyfarm" title="Foto's Ingang winter A-Style beautyfarm">
+		</div>
+	</div>
+</div>		
+<br><br>
+
+
+	<div class="pure-u-1 transback">	
+		<h2 id="kadobon">Dit arrangement als cadeaubon<br> Vandaag nog in huis!</h2>
+		<p>DIRECT GELEVERD</p>
+		<img class="pure-img center" src= "../images/wellness_cadeaubon_web.jpg" alt="cadeaubon beautyfarm" title="kadobon">
+		<h1>Cadeaubon per e-mail</h1>
+		<p>U kunt hier de wellness cadeaubon bestellen. Wij sturen dan direct een wellness cadeaubon op, die uitgeprint kan worden. In de E-mail die u krijgt staat hoe u moet betalen. Na ontvangst van uw betaling sturen we u per mail een voucher (betalingsbewijs). Degene die de beautydag krijgt levert deze voucher in en wij zorgen voor ervoor dat degene die het wellness cadeau krijgt heerlijk in de watten gelegd wordt!  </p>
+		<h1>Cadeaubon op de smartphone</h1>
+		<p>U krijgt van ons ook een code waarmee op de smartphone de gegeven cadeaubon verschijnt. Zo ziet degene die de deze beautydag cadeau krijgt precies wat ze krijgen.</p>
+
+		<h1>Wellnessbon ophalen</h1>
+		<p>U kunt bij ons gezellig de cadeaubon ophalen. Onder het genot van een kop koffie of thee, pakken wij de cadeaubon leuk voor u is. Belt u even voordat u komt?</p>
+
+		<a class="pure-button pure-button-primary" href="#boeking">Bestel cadeaubon ...</a>
+		<div class="transback5">
+		<h4>Bij ons blijft u zoveel mogelijk bijelkaar!</h4>
+			<div class="pure-menu pure-menu-horizontal">
+			<ul class="pure-menu-list ">
+				<li class="pure-menu-item rr_button2"><a href="#boeking" class="pure-menu-link">boek<br>nu</a></li>
+				<li class="pure-menu-item rr_button2"><a href="#info" class="pure-menu-link">top<br>.   .</a></li>
+				<li class="pure-menu-item rr_button2"><a href="beautyfarm-sauna-wellness-thermen-prijslijst.html" class="pure-menu-link">Andere <br>beautydagen</a></li>
+			</ul>
+			</div>
+		</div>
+		<h1 >A-Style beautyfarm</h1>
+	</div>
+	<p class="stukjewit"></p>
+	<p class="stukjewit"></p>
+  	<p class="stukjewit"></p>   		
+<div class="pure-g">
+	<div class="pure-u-1 transback5"> 
+		<div class="pure-menu pure-menu-horizontal">
+
+			<ul class="pure-menu-list" style="color:white;">
+				<li class="pure-menu-item pure-menu"><a href="../index.html" class="pure-menu-link" style="color:white;">Home</a></li>
+				<li class="pure-menu-item pure-menu"><a href="#info" class="pure-menu-link">Top</a></li>
+				<li class="pure-menu-item pure-menu"><a href="#boeking" class="pure-menu-link">Boek nu</a>
+				<li class="pure-menu-item pure-menu"><a id='hideshow' data-value="share-buttons" class="pure-menu-link"  ><img src="../images/share_icon.png" height="50"></a>
+				</li>
+			</ul>
+		</div>
+		<div class="pure-u-18-24">
+			<div id="share-buttons" style="display:none" >
+			<!-- Google+ -->
+			<a href="https://plus.google.com/share?url=https://astyle.home.xs4all.nl/beautyfarm/spa_wellness_arrangementen/vriendinnendag_wellness_arrangement.html" target="_blank">
+				<img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
+			</a>
+			<!-- Facebook -->
+			<a href="http://www.facebook.com/sharer.php?u=https://astyle.home.xs4all.nl/beautyfarm/spa_wellness_arrangementen/vriendinnendag_wellness_arrangement.html" target="_blank">
+				<img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+			</a>
+			<!-- Email -->
+			<a href="mailto:?Subject=Simple Share Buttons&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 https://astyle.home.xs4all.nl/beautyfarm/spa_wellness_arrangementen/vriendinnendag_wellness_arrangement.html">
+				<img src="https://simplesharebuttons.com/images/somacro/email.png" alt="Email" />
+			<!-- WhatApp -->
+				<a href="https://api.whatsapp.com/send?text=Dagje%20Sauna%20In%20Nieuwegein%20http://bit.ly/A-Style-Vriendinnendag" target="_blank">
+				<img src="../images/whatsapp-logo_zw318-49685.png" alt="Whatsapp" /></a>
+			<!-- LinkedIn -->
+			<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://astyle.home.xs4all.nl/beautyfarm/spa_wellness_arrangementen/vriendinnendag_wellness_arrangement.html" target="_blank">
+				<img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" /></a>
+			<!-- Pinterest -->
+			<a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());">
+				<img src="https://simplesharebuttons.com/images/somacro/pinterest.png" alt="Pinterest" />
+			</a>
+			<!-- Print -->
+			<a href="javascript:;" onclick="window.print()">
+				<img src="https://simplesharebuttons.com/images/somacro/print.png" alt="Print" /></a>
+			<!-- Tumblr-->
+			<a href="http://www.tumblr.com/share/link?url=https://astyle.home.xs4all.nl/beautyfarm/spa_wellness_arrangementen/vriendinnendag_wellness_arrangement.html&amp;title=Het leukste dagje Sauna" target="_blank">
+				<img src="https://simplesharebuttons.com/images/somacro/tumblr.png" alt="Tumblr" /></a>
+			<!-- Twitter -->
+			<a href="https://twitter.com/share?url=https://astyle.home.xs4all.nl/beautyfarm/spa_wellness_arrangementen/vriendinnendag_wellness_arrangement.html&amp;text=Dagje%20Sauna%20In%20Nieuwegein%20http://bit.ly/A-Style-Vriendinnendag" target="_blank"> <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" /> </a>
+			<br>
+			<!-- Facebook like  -->
+			<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = 'https://connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v2.12&appId=245658505572734';
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+
+			<div class="fb-like" data-href="https://www.facebook.com/astylewellness/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+			
+			
+			
+		</div>
+	</div>
+	</div>
+</div>
+<div id="colofon"></div>  <!--- haalt de colofoon op en drukt deze af hier af> -->		
+
+
+<div class="pure-g">
+	<div class="pure-u-6-24"><br>
+		<a href="../brochures/A-Style Beautyfarm - Nieuwegein - Vriendinnendag.pdf" download="Vriendinnendag Dagje wellness, Nieuwegein"> <img class="pure-img center" src="../images/Download_pdf_brochure.jpg" height="50"></a>
+
+	</div>
+
+	
+</div>
+	
+	
+	
+	
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+</body></div> <!--einde container  -->	
+<!-- JS -->
+
+<script src='../jscss/rrBeauty.js'></script>
+<script>
+$(document).ready(function(){
+        $("#prijslijst1").load("info_prijs_vd.html");
+    ;
+});
+</script>
+
+<script type="text/javascript">
+  var pro6pp_auth_key = "wxZ5dr18EEboGUja";
+  $(document).ready(function() {
+	  $(".address").applyAutocomplete();
+  });
+</script>
+<script src='../jscss/google-sheet.js'></script>
+
+
+
+
+
+</html>
